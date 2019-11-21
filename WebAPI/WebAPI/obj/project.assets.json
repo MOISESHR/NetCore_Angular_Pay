@@ -12966,11 +12966,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MHR\\VS2019\\NetCore_Angular\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "E:\\MHR\\VS2019\\NetCore_Angular_Pay\\WebAPI\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "E:\\MHR\\VS2019\\NetCore_Angular\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectPath": "E:\\MHR\\VS2019\\NetCore_Angular_Pay\\WebAPI\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "E:\\MHR\\VS2019\\NetCore_Angular\\WebAPI\\WebAPI\\obj\\",
+      "outputPath": "E:\\MHR\\VS2019\\NetCore_Angular_Pay\\WebAPI\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
