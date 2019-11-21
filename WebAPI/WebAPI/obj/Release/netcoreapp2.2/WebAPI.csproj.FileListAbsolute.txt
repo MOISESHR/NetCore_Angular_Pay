@@ -1,0 +1,16 @@
+E:\MHR\VS2019\NetCore_Angular\WebAPI\WebAPI\bin\Release\netcoreapp2.2\appsettings.Development.json
+E:\MHR\VS2019\NetCore_Angular\WebAPI\WebAPI\bin\Release\netcoreapp2.2\appsettings.json
+E:\MHR\VS2019\NetCore_Angular\WebAPI\WebAPI\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+E:\MHR\VS2019\NetCore_Angular\WebAPI\WebAPI\bin\Release\netcoreapp2.2\WebAPI.deps.json
+E:\MHR\VS2019\NetCore_Angular\WebAPI\WebAPI\bin\Release\netcoreapp2.2\WebAPI.runtimeconfig.json
+E:\MHR\VS2019\NetCore_Angular\WebAPI\WebAPI\bin\Release\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+E:\MHR\VS2019\NetCore_Angular\WebAPI\WebAPI\bin\Release\netcoreapp2.2\WebAPI.dll
+E:\MHR\VS2019\NetCore_Angular\WebAPI\WebAPI\bin\Release\netcoreapp2.2\WebAPI.pdb
+E:\MHR\VS2019\NetCore_Angular\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+E:\MHR\VS2019\NetCore_Angular\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+E:\MHR\VS2019\NetCore_Angular\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+E:\MHR\VS2019\NetCore_Angular\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+E:\MHR\VS2019\NetCore_Angular\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+E:\MHR\VS2019\NetCore_Angular\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+E:\MHR\VS2019\NetCore_Angular\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.dll
+E:\MHR\VS2019\NetCore_Angular\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.pdb

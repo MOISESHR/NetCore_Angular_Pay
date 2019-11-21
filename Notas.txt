@@ -1,0 +1,4 @@
+
+Publicacion IIS
+ng build --prod --base-href /payments/
+
